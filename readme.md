@@ -2,7 +2,7 @@
 
 ## Projektübersicht
 
-Dieses Python-Projekt extrahiert Daten von der FIS Alpine Skiing Website, speziell die Cup-Standings für die Saison 2024, und speichert diese in einer Excel-Datei. Es nutzt Selenium für das Web Scraping und Pandas für die Datenverarbeitung.
+Dieses Python-Projekt extrahiert Daten von der FIS Alpine Skiing Website, speziell die Cup-Standings und speichert diese in einer Excel-Datei. Es nutzt Selenium für das Web Scraping und Pandas für die Datenverarbeitung.
 
 ## Datenvisualisierung
 
