@@ -73,10 +73,3 @@ Das Projekt beinhaltet nun auch Funktionen zur Datenvisualisierung, die es ermö
 KMP
 
 ---
-
-### Hinweise:
-
-- Ersetzen Sie `[URL Ihres Repositories]` und `[Name Ihres Projektverzeichnisses]` mit den entsprechenden Informationen.
-- Passen Sie den Pfad zum Chrome WebDriver entsprechend an.
-- Wählen Sie eine Lizenz, die zu Ihrem Projekt passt, und fügen Sie diese im Lizenzbereich ein.
-- Ergänzen Sie Ihren Namen im Abschnitt Autor.
